@@ -1,3 +1,9 @@
+/*             |*|*|*  SHUNTING YARD ALGORITHM  *|*|*|
+   Feed arithmetic expression with binary operators in string format
+   with operators, operator and brances seperated with single space
+   convert Infix expression string to Postfix expression then evaluate
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
